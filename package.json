@@ -1,6 +1,6 @@
 {
   "name": "dsh-period-report",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Free-interval session reports for DeepSeek Harness: AI-narrated daily/weekly/monthly digests over any date range, with every-N-days scheduled reminders that generate the report and pop a system notification (macOS Notification Center / Linux notify-send).",
   "type": "module",
   "main": "lib/index.js",
