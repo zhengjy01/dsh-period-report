@@ -4,6 +4,8 @@ Free-interval session reports for [DeepSeek Harness](https://github.com/deepseek
 
 ## Features
 
+- **Web UI (v0.2.0)** — a **Session Report** settings page (report generator + reminder configuration) and bottom-right reminder toasts with a large full-report reading window.
+
 - **Any date range** — pick a start and end date; the report covers exactly that window (a single day, 2 days, 7 days, a whole month, whatever you need).
 - **AI narrative digest** — the deployment's default model writes a natural-language summary (`Today at a glance` / `Highlights` / `Review` / `Suggestions`) that reads like a human-written daily report. Falls back to a template highlight list when AI is disabled or unavailable.
 - **Full statistics** — active/new sessions, user & assistant messages, tool calls, turns, steps, token usage (input/output/cache read/write/reasoning), turn results, top tools.
