@@ -1,5 +1,7 @@
 # dsh-period-report
 
+> **English** | [**中文**](README.zh.md)
+
 Free-interval session reports for [DeepSeek Harness](https://github.com/deepseek-ai/DeepSeek-Harness): generate **AI-narrated work reports** (daily / weekly / monthly / any custom date range) from your session corpus, and schedule **periodic reminders** ("every N days at HH:MM, starting from an anchor date") that generate the report and pop a **system notification**.
 
 ## Features
